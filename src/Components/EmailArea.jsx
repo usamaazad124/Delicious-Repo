@@ -14,7 +14,7 @@ const EmailArea=({query,setQuery})=> {
                 join our Newsletter
               </h2>
               <p className="text-black text-sm font-freight">
-                Enter your email and we'll keep you posted with news and
+                Enter your email and we will keep you posted with news and
                 updates!
               </p>
             </div>
